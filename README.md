@@ -6,4 +6,6 @@ The Love Calculator that I created works by calculating the compatibility percen
 
 _Curious to see how compatible you and your crush really are? Try my Love Calculator now and discover your love match percentage in just a few clicks! It's all fun and games, but you never know what sparks might fly! To run the program, use the '.py' file on this page!_
 
+- Link medium: https://medium.com/@zahrani170899/love-calculator-love-meter-to-calculate-love-percentage-written-in-python-e582b62b9eac
+  
 Thank You - Athaya Zahrani Irmansyah
